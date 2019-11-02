@@ -1,0 +1,5 @@
+main: steschu.MyPlugin
+name: MyPlugin
+version: 0.1
+author: Steschu
+description: Cut Trees!
